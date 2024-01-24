@@ -1,0 +1,55 @@
+[
+{
+  "model": "scraping.city",
+  "pk": 3,
+  "fields": {
+    "name": "Київ",
+    "slug": "kyiv"
+  }
+},
+{
+  "model": "scraping.city",
+  "pk": 4,
+  "fields": {
+    "name": "Одеса",
+    "slug": "odesa"
+  }
+},
+{
+  "model": "scraping.city",
+  "pk": 5,
+  "fields": {
+    "name": "Віддалена робота",
+    "slug": "vіddalena_robota"
+  }
+},
+{
+  "model": "scraping.language",
+  "pk": 1,
+  "fields": {
+    "name": "Java",
+    "slug": "java"
+  }
+},
+{
+  "model": "scraping.language",
+  "pk": 2,
+  "fields": {
+    "name": "Python",
+    "slug": "python"
+  }
+},
+{
+  "model": "scraping.vakancy",
+  "pk": 1,
+  "fields": {
+    "url": "https://www.work.ua/jobs/5466723/",
+    "title": "Junior Python Developer",
+    "company": "Solidway",
+    "description": "Віддалена робота\r\n\r\nМи шукаємо Junior Python Developer, амбіційного фахівця, який бажає розвиватися. Очікуємо, що ви активно братимете участь у процесі розробки, виявлятимете ініціативу та прагнення до професійного зростання.\r\n\r\nОбов’язки:\r\n\r\nУчасть у розробці та підтримці програмного забезпечення на Python\r\nРеалізація складних технічних завдань\r\nНаписання, тестування та відлагодження коду\r\nВимоги:\r\n\r\nЗнання Python та основних алгоритмів\r\nДосвід роботи з базами даних\r\nБажання розвиватися та навчатися\r\nМи пропонуємо:\r\n\r\nГнучкий графік\r\nУчасть в ключових проектах компанії\r\nМожливість професійного та кар'єрного зростання\r\nКонкурентоспроможна заробітна плата — обговорюється\r\nДля відгуку на вакансію заповніть форму https://forms.gle/1Zwjna8Zqm89LS5L7",
+    "city": 3,
+    "language": 2,
+    "timestamp": "2024-01-18"
+  }
+}
+]
